@@ -1,9 +1,12 @@
 {
-  "dependencies": {
-    "jest": "^26.4.2"
-  },
   "name": "jest-unit-test-demo",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+     "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^26.4.2"
+  },
   "license": "MIT"
 }
